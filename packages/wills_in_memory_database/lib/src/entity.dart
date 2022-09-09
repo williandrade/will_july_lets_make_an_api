@@ -1,0 +1,3 @@
+class Entity {
+  String? id;
+}
